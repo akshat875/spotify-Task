@@ -38,7 +38,7 @@ function SearchResults({ searchText, handleGetSongDetails }) {
                 {/* results */}
                 <div className='w-[700px] py-5'>
                     <div className='mb-3'>
-                        <span className='text-2xl text-[#fefefe] font-bold'>Songs</span>
+                        <span className='text-2xl text-[#fefefe] font-bold '>Songs</span>
                     </div>
                     <div>
                         {
